@@ -1,0 +1,3 @@
+method,n_features,adjusted_rand_score
+KMeans on all standardized features,20,0.005961567406388764
+KMeans on 2D PCA features,2,0.001694571795386637
