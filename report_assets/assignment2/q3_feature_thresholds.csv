@@ -1,0 +1,5 @@
+feature,min,low_upper,high_lower,max
+ram,387,1114.1999999999998,2083.8,2811
+int_memory,2,20.599999999999998,45.4,64
+px_width,500,949.4,1548.6,1998
+battery_power,501,949.5,1547.5,1996

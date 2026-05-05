@@ -1,0 +1,9 @@
+support,itemsets,length
+0.682,ram_medium,1
+0.416,px_width_medium,1
+0.414,battery_power_medium,1
+0.412,int_memory_medium,1
+0.316,int_memory_low,1
+0.308,battery_power_low,1
+0.318,"battery_power_medium, ram_medium",2
+0.306,"px_width_medium, ram_medium",2
